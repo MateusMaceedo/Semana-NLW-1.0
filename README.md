@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://blog.rocketseat.com.br/content/images/2020/06/ecoleta.png" width="250px" />
 </h1>
 
 <h4 align="center"> 
