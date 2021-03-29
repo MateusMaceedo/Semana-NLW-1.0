@@ -16,10 +16,11 @@
 </p>
 
 ## :information_source: What's Next Level Week?
-
+<p align="justify">
 NLW is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level.
 Through our method you will learn new tools, learn about new technologies and discover hacks that will boost your career.
 An online and completely free event that will help you take the next step in your evolution as a dev.
+</p>
 
 ### Days
 - Dia 1: Acelerando sua evolução 01/06 - :heavy_check_mark:
